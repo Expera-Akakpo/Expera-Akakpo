@@ -1,25 +1,20 @@
-### Hi there, I'm Généreux <img align="left" alt="high" width="30px" height="30px" src="./waving_hand.gif" /> <img align="right" src="https://komarev.com/ghpvc/?username=genereux-akotenou&label=Profile%20views&color=0e75b6&style=flat" alt="genereux-akotenou" />
+### Hi there, I'm Expéra <img align="left" alt="high" width="30px" height="30px" src="./waving_hand.gif" /> <img align="right" src="https://komarev.com/ghpvc/?username=genereux-akotenou&label=Profile%20views&color=0e75b6&style=flat" alt="genereux-akotenou" />
 <ul>
   <li>🌱 I’m currently doing MSc in AI & Data Science at Mohamed VI Polytechnic University</li>
   <li>👯 I’m looking to collaborate with geeky minds</li>
   <li>🥅 Goals: I just want to sleep less stupid than I woke up</li>
-  <li>📫 My Website/Blog: <a href="http://genereux-akotenou.github.io">genereux-akotenou.github.io</a></li>
-  <li>🤗 My Hugginface  : <a href="https://huggingface.co/Genereux-akotenou">huggingface.co/Genereux-akotenou</a></li>
-  <li>🌐 My Linkedin    : <a href="https://www.linkedin.com/in/genereux-akotenou/">linkedin.com/in/genereux-akotenou</a></li>
+  <!-- <li>📫 My Website/Blog: <a href="http://genereux-akotenou.github.io">genereux-akotenou.github.io</a></li> -->
+  <li>🤗 My Hugginface  : <a href="https://huggingface.co/Expera-AKAKPO">huggingface.co/Expera-AKAKPO</a></li>
+  <li>🌐 My Linkedin    : <a href="http://www.linkedin.com/in/codjo-ulrich-exp%C3%A9ra-akakpo-593b282b4">linkedin.com/in/Expera-AKAKPO</a></li>
 </ul>
 
 ---
 
 <table>
   <tr style="text-align: center; border: none !important; padding: 0;">
-    <!--<td style="text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=genereux-akotenou&show_icons=true&locale=en&layout=compact" alt="genereux-akotenou" width="300" />
-    </td>-->
+
     <td style="text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api?username=genereux-akotenou&show_icons=true&locale=en&hide_border=true" alt="genereux-akotenou" width="450" />
-    </td>
-    <td style="text-align: center;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=genereux-akotenou&hide_border=true" alt="genereux-akotenou" width="450" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Expera-Akakpo&theme=highcontrast&hide_border=true&border_radius=4.6&short_numbers=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat"  alt="Expera-Akakpo" width="450" />
     </td>
   </tr>
 </table>
