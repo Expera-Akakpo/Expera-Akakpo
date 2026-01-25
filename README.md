@@ -12,13 +12,7 @@
  
 ![Stats](https://github-readme-stats.vercel.app/api?username=Expera-Akakpo&show_icons=true&theme=highcontrast)
 
-
-<div class="justify-content-center d-flex" >
-      <img src="[%2CTue%2CWed%2CThu%2CFri%2CSat](https://github-readme-stats.vercel.app/api?username=Expera-Akakpo&show_icons=true&theme=highcontrast)"  alt="Expera-Akakpo" width="450" />
-</div>
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
--->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer)
 
