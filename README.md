@@ -12,7 +12,7 @@
 
 <table>
   <tr style="text-align: center; border: none !important; padding: 0;">
-
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Expera-Akakpo&theme=highcontrast&hide_border=true&border_radius=4.6&short_numbers=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat"  alt="Expera-Akakpo" width="450" />
     <td style="text-align: center;">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=Expera-Akakpo&theme=highcontrast&hide_border=true&border_radius=4.6&short_numbers=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat"  alt="Expera-Akakpo" width="450" />
     </td>
