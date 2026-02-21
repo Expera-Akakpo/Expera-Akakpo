@@ -13,7 +13,7 @@ Driven by a research ambition, I wish to contribute to existing scientific work 
 
 ---
  
-![Stats](https://github-readme-stats.vercel.app/api?username=Expera-Akakpo&show_icons=true&theme=highcontrast)
+![Stats](https://github-readme-stats-nine-kohl-72.vercel.app/api?username=Expera-Akakpo&show_icons=true&theme=highcontrast)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
